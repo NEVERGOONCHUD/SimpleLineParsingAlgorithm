@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!LineParsingAlgorithm_V2_0.java
+!README.md
+# etc...
+
+# ...even if they are in subdirectories
+!*/
+# yes this was copied from stack overflow 🗿
